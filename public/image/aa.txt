@@ -1,0 +1,7 @@
+aaPanel Internet Address: https://140.238.207.61:7800/4981b41d
+aaPanel Internal Address: https://10.0.0.50:7800/4981b41d
+username: gfcjowl4
+password: 508833a6
+Warning:
+If you cannot access the panel,
+release the following port (7800|888|80|443|20|21) in the security group
